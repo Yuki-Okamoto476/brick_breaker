@@ -11,9 +11,10 @@ html {
   font-size: 62.5%;
 }
 
-h1 {
+h1, h2 {
   text-align: center;
 }
+
 
 canvas {
   background: black;
